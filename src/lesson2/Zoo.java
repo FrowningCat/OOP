@@ -71,4 +71,14 @@ public class Zoo {
         }
         return flyables;
     }
+
+    public List<Swimable> getSwimable() {
+        List<Swimable> swimables = new ArrayList<>();
+        for (Animal item : animals) {
+            if (item instanceof Swimable) {
+                swimables.add((Swimable) item);
+            }
+        }
+        return swimables;
+    }
 }

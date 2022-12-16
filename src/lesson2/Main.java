@@ -6,7 +6,8 @@ public class Main {
         zoo.addAnimal(new Cat("Goostik", 4, "Vlad"))
                 .addAnimal(new Dog("Dafi", 4, "Vlad"))
                 .addAnimal(new Duck("Donald", 2, "Oleg"))
-                .addAnimal(new Eagle("Rob", 2, "Ivan"));
+                .addAnimal(new Eagle("Rob", 2, "Ivan"))
+                .addAnimal(new Turtle("Leonardo", 4, "Splinter"));
         System.out.println(zoo.toString());
         System.out.println(zoo.talk());
 
@@ -20,6 +21,12 @@ public class Main {
 
         for (Flyable i : zoo.getFlyable()) {
             System.out.println(i.flySpead());
+        }
+
+        System.out.println("----------------------");
+
+        for (Swimable i : zoo.getSwimable()) {
+            System.out.println(i.swimSpead());
         }
 
         SaveManager saveManager = new SaveManager();

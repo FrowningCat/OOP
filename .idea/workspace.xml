@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d940adcc-3ebf-4190-99f2-c56eafc3da9c" name="Changes" comment="add programm">
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Runable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/SaveManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Speakable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/Swimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/Turtle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson2/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Zoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +51,8 @@
       <workItem from="1670917630665" duration="10722000" />
       <workItem from="1671013080168" duration="1500000" />
       <workItem from="1671088842447" duration="3508000" />
-      <workItem from="1671176058098" duration="13978000" />
+      <workItem from="1671176058098" duration="14861000" />
+      <workItem from="1671211208356" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="add programm">
       <created>1670939505325</created>
@@ -68,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670939505325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add programm">
+      <created>1671198022558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671198022558</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
