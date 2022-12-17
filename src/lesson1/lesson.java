@@ -17,6 +17,7 @@ public class lesson {
         tovary.add(new Product("vine", 12));
         tovary.add(new Product("dust", 10));
         tovary.add(new Soda("king", 19, "grapes"));
+        tovary.add(new Milk("Domik v derevne", 20, 3));
 
         VendingMachine machine2 = new VendingMachine(tovary);
         System.out.println(machine2);
