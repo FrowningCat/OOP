@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d940adcc-3ebf-4190-99f2-c56eafc3da9c" name="Changes" comment="add homework">
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Milk.java" afterDir="false" />
+    <list default="true" id="d940adcc-3ebf-4190-99f2-c56eafc3da9c" name="Changes" comment="add homework1">
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Axe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Barbarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Bow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Comandor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/LongBow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Sekira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Weapon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +44,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vsavi/IdeaProjects/OOP&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,7 +61,10 @@
       <workItem from="1671088842447" duration="3508000" />
       <workItem from="1671176058098" duration="14861000" />
       <workItem from="1671211208356" duration="892000" />
-      <workItem from="1671264569789" duration="1154000" />
+      <workItem from="1671264569789" duration="2368000" />
+      <workItem from="1671535514780" duration="522000" />
+      <workItem from="1671536145425" duration="1360000" />
+      <workItem from="1672217201362" duration="8976000" />
     </task>
     <task id="LOCAL-00001" summary="add programm">
       <created>1670939505325</created>
@@ -73,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671211871490</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add homework1">
+      <created>1671266003501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671266003501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add programm" />
     <MESSAGE value="add homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework" />
+    <MESSAGE value="add homework1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework1" />
   </component>
 </project>
