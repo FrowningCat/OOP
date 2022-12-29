@@ -1,9 +1,9 @@
 package lesson4;
 
-public class Barbarian extends Warrior<Axe> {
+public class Barbarian extends Warrior<Axe, Armor> {
 
-    public Barbarian(String name, int healthpoint, Axe axe) {
-        super(name, healthpoint, axe);
+    public Barbarian(String name, int healthpoint, Axe axe, Armor armor) {
+        super(name, healthpoint, axe, armor);
     }
 
     @Override

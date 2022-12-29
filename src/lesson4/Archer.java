@@ -1,8 +1,8 @@
 package lesson4;
 
-public class Archer extends Warrior<Bow> {
-    public Archer(String name, int healthpoint, Bow bow) {
-        super(name, healthpoint, bow);
+public class Archer extends Warrior<Bow, Armor> {
+    public Archer(String name, int healthpoint, Bow bow, Armor armor) {
+        super(name, healthpoint, bow, armor);
     }
 
     @Override
