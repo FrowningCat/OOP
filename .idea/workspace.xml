@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d940adcc-3ebf-4190-99f2-c56eafc3da9c" name="Changes" comment="add lesson4">
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Armor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Equipment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/FabricArmor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Kalchuga.java" afterDir="false" />
+    <list default="true" id="d940adcc-3ebf-4190-99f2-c56eafc3da9c" name="Changes" comment="add homework4">
+      <change afterPath="$PROJECT_DIR$/src/lesson3/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/Personal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson3/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Archer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Barbarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Barbarian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Comandor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Comandor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Warrior.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,8 @@
       <workItem from="1671535514780" duration="522000" />
       <workItem from="1671536145425" duration="1360000" />
       <workItem from="1672217201362" duration="9797000" />
-      <workItem from="1672303629825" duration="5046000" />
+      <workItem from="1672303629825" duration="5238000" />
+      <workItem from="1673269077863" duration="7405000" />
     </task>
     <task id="LOCAL-00001" summary="add programm">
       <created>1670939505325</created>
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672226771991</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add homework4">
+      <created>1672329104085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672329104085</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +125,7 @@
     <MESSAGE value="add homework" />
     <MESSAGE value="add homework1" />
     <MESSAGE value="add lesson4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson4" />
+    <MESSAGE value="add homework4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework4" />
   </component>
 </project>
